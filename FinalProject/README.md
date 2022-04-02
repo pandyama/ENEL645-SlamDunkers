@@ -1,7 +1,7 @@
 # ENEL645 - Group 6 Final Project - Garbage Classification
 
 ## Group Members
-### Gregory Slowski, Brandon Quan, Zachary Frena, Michael Kissinger, Meet Pandya
+Gregory Slowski, Brandon Quan, Zachary Frena, Michael Kissinger, Meet Pandya
 
 ## Project Description
 The purpose of this project is to use deep learning classification models on a dataset which consists of various pictures of garbage, with associated labels for their appropriate disposal location being the black, blue, and green bins, as well as take-to-recycle. The 5 classification models used are from the Keras Applications page, which include VGG-16, ResNet50, DenseNet121, EfficientNetB0, and InceptionV3.
